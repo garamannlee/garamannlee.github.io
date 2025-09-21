@@ -57,8 +57,8 @@ interests:
 education:
   - area: PhD in Educational Psychology and Educational Technology
     institution: Michigan State University
-    date_start: Fall 2019
-    date_end: Spring 2026
+    date_start: 2019-08-26
+    date_end: 2026-04-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
